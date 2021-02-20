@@ -1,0 +1,9 @@
+    - Ler os dados
+    - Corrigir os tipos dos dados
+    - Converter em métricas certas
+    - One-hot enconder ou label enconder
+    - Normalizar os dados
+    - Escolher as melhores features com SelectKBest (categórica vs continua)
+    - Separar os dados em training e test
+    - GridSearchCV com os algoritmos de ML
+    - Escolher o que tiver melhor resultado final
